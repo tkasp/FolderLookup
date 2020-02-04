@@ -1,10 +1,10 @@
 # FolderLookup
-This script will take a search term from the user and scan both possible directories for folders. Any folder name that includes the search term will be opened, up to a maximum of 5 as overload protection.If the user desires to open more folders at once to have a more thorough search, the search term can be preceded by an asterisk.
+This script will take a search term from the user and scan possible directories for folders and open them. Any folder name that includes the search term will be opened, up to a maximum of 5 as overload protection. If the user desires to open more folders at once to have a more thorough search, the search term can be preceded by an asterisk.
 
 Useful if you regularly have to access large directories many levels deep within a storage system. the script can be used to pre-define the directories of interest, and then repeatedly take a search term to open any applicable folders therein.
 
 # Installation
-Just clone on download the repo.
+Just clone or download the repo.
 
 # Usage
 
